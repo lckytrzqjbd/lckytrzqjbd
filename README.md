@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi! I'm Lucky 👋
 
-I'm **Lucky**, an Informatics student with an interest in web development and programming fundamentals.
+- Informatics Student (2025) at [Universitas Singaperbangsa Karawang](https://www.unsika.ac.id/), Indonesia.
 
-- 🌱 Learning: HTML, CSS, C++
-- 🔍 Interested in web development
-- 🎧 Loves music while coding
+- Vice Treasurer of [HIMTIKA](https://himtika.cs.unsika.ac.id/) (informatics Student Asociation)
+- Interested in web development
+- Loves music while coding
 
 Feel free to explore my repositories ✨
 
